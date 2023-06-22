@@ -158,6 +158,8 @@ docker push brainenapp.azurecr.io/brain:latest
 4. Pull the Docker image from the container registry to Web App server and run
 
 
+
+
 # Brain Tumor Classification Project
 
 This repository contains an end-to-end machine learning project for brain tumor classification.
