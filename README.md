@@ -171,7 +171,7 @@ This repository contains an end-to-end machine learning project for brain tumor 
 - `config`: Directory containing configuration files.
     - [`config.yaml`](config/config.yaml): Configuration file for the project.
 - [`.github/workflows`](.github/workflows): GitHub Actions workflow configuration files.
-    - [`.gitkeep`](.github/workflows/.gitkeep): Placeholder file to keep the directory structure in version control.
+    - [`main.yaml`](.github/workflows/main.yaml): Workflow file for Continuous Integration and Continuous Delivery.
 - `research`: Directory containing Jupyter notebooks related to data analysis and experimentation.
     - [`01_data_ingestion.ipynb`](research/01_data_ingestion.ipynb): Notebook for data ingestion.
     - [`02_prepare_base_model.ipynb`](research/02_prepare_base_model.ipynb): Notebook for preparing the base model.
